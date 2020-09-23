@@ -1,2 +1,2 @@
 # Gauri Hatode
-Hello! This is README file for assignment1
+Hello! This is README file for assignment2
